@@ -1,0 +1,6 @@
+{
+  "name": "CrunchTime AI",
+  "description": "An AI-powered emergency salvage companion that helps students, professionals, and entrepreneurs plan, prioritize, and salvage high-stakes deadlines with custom emergency action plans, smart scheduling, and bento focus zones.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
